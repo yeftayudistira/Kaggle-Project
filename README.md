@@ -15,7 +15,7 @@ Beberapa proyek yang ada (dan akan terus bertambah!):
 | 🧪 Proyek | ✏️ Deskripsi | 🛠️ Tools |
 |----------|--------------|----------|
 | License Plate Detection Using YOLO and EasyOCR | Tugas akhir pengolahan citra tema nya object detection | Python, Yolo, EasyOCR |
-
+| Face Clustering Using AuraFace and DBSCAN | Percobaan | Python, AuraFace, DBSCAN|
 ---
 
 ## ⚙️ Tools & Teknologi
