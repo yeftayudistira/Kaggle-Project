@@ -1,0 +1,55 @@
+# ===============================
+# Core Python & Utilities
+# ===============================
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+tqdm
+opencv-python
+Pillow
+
+# ===============================
+# Machine Learning & Clustering
+# ===============================
+scikit-learn
+umap-learn
+hdbscan
+
+# ===============================
+# Deep Learning
+# ===============================
+torch
+torchvision
+torchaudio
+ultralytics
+
+# ===============================
+# OCR
+# ===============================
+easyocr
+
+# ===============================
+# Face Recognition / Embedding
+# ===============================
+insightface
+onnxruntime
+onnxruntime-gpu
+
+# ===============================
+# NLP (AI vs Human Text)
+# ===============================
+nltk
+spacy
+gensim
+sentence-transformers
+
+# ===============================
+# Data Analysis & Competition
+# ===============================
+jupyter
+ipykernel
+notebook
+plotly
+
